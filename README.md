@@ -1,9 +1,9 @@
 <h2>Hi there👋</h2>
 
-- 🔭 I’m currently working on [Stockfish](https://github.com/official-stockfish/Stockfish), as a maintainer.
-  My own projects are [Smallbrain](https://github.com/Disservin/Smallbrain), [fast-chess](https://github.com/Disservin/fast-chess) and [chess-library](https://github.com/Disservin/chess-library).
+- 🔭 Maintainer at [Stockfish](https://github.com/official-stockfish/Stockfish).
+- ♟️ My own projects are [fast-chess](https://github.com/Disservin/fast-chess) and [chess-library](https://github.com/Disservin/chess-library) and [Smallbrain](https://github.com/Disservin/Smallbrain).
 
-- 🌱 I’m currently using **C++, PHP, Python and Vue/TS** together with various frameworks.
+- 🛠️ C++, PHP, Python, Vue/TS, and more.
 
 - 📫 How to reach me **disservin.social@gmail.com**
 
