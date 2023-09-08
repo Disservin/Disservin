@@ -32,13 +32,13 @@ target="_blank" rel="noreferrer"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg"
 alt="php" width="40" height="40"/> </a>
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Disservin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Disservin&theme=bear&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 <h2>📊 GitHub Stats:</h2>
 
 <p float="left">
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Disservin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
-  <img style="height: 150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Disservin&theme=dark&hide_border=false" />
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Disservin&theme=bear&hide_border=true&include_all_commits=false&count_private=false" />
+  <img style="height: 150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Disservin&theme=bear&hide_border=true" />
 </p>
 
 ---
