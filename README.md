@@ -37,8 +37,8 @@ alt="php" width="40" height="40"/> </a>
 <h2>📊 GitHub Stats:</h2>
 
 <p float="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Disservin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Disservin&theme=dark&hide_border=false" width="49%"/>
+  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Disservin&theme=dark&hide_border=false&include_all_commits=false&count_private=false" />
+  <img style="height: 150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Disservin&theme=dark&hide_border=false" />
 </p>
 
 ---
