@@ -7,8 +7,6 @@
 
 - 📫 How to reach me **disservin.social@gmail.com**
 
-<h2>📊 GitHub Stats:</h2>
-
 <p float="left">
   <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Disservin&theme=bear&hide_border=true&include_all_commits=false&count_private=false" />
   <img style="height: 150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Disservin&theme=bear&hide_border=true" />
