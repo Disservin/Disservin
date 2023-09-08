@@ -1,5 +1,4 @@
 <h2>Hi there👋</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=disservin&label=Profile%20views&color=0e75b6&style=flat" alt="disservin" /> </p>
 
 - 🔭 I’m currently working on [Stockfish](https://github.com/official-stockfish/Stockfish), as a maintainer.
   My own projects are [Smallbrain](https://github.com/Disservin/Smallbrain), [fast-chess](https://github.com/Disservin/fast-chess) and [chess-library](https://github.com/Disservin/chess-library).
@@ -44,6 +43,6 @@ alt="php" width="40" height="40"/> </a>
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=Disservin&icon=0&color=0)](https://visitcount.itsvg.in)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=disservin&label=Profile%20views&color=0e75b6&style=flat" alt="disservin" /> </p>
 
 <!-- Created with the help of GPRM https://gprm.itsvg.in ) -->
