@@ -1,7 +1,7 @@
 <h2>Hi there👋</h2>
 
 - 🔭 Maintainer at [Stockfish](https://github.com/official-stockfish/Stockfish).
-- ♟️ My own projects are [fast-chess](https://github.com/Disservin/fast-chess) and [chess-library](https://github.com/Disservin/chess-library) and [Smallbrain](https://github.com/Disservin/Smallbrain).
+- ♟️ My own projects are [fast-chess](https://github.com/Disservin/fast-chess), [chess-library](https://github.com/Disservin/chess-library) and [Smallbrain](https://github.com/Disservin/Smallbrain).
 
 - 🛠️ C++, PHP, Python, Vue/TS, and more.
 
