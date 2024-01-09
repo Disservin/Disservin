@@ -14,7 +14,4 @@
 
 ---
 
-Profile Picture: https://en.wikipedia.org/wiki/File:Pinwheel_galaxy.png
-
-
 <!-- Created with the help of GPRM https://gprm.itsvg.in ) -->
