@@ -1,9 +1,10 @@
 <h2>Hi there👋</h2>
 
-- 🔭 Maintainer at [Stockfish](https://github.com/official-stockfish/Stockfish).
-- ♟️ My own projects are [fast-chess](https://github.com/Disservin/fast-chess), [chess-library](https://github.com/Disservin/chess-library) and [Smallbrain](https://github.com/Disservin/Smallbrain).
+I'm Max (Disservin), a software developer passionate about high-performance computing and chess programming.  
 
-- 🛠️ C++, PHP, Python, Vue/TS, and more.
+Currently maintaining Stockfish, the world's strongest chess engine.  
+Started my journey creating [Smallbrain](https://github.com/Disservin/Smallbrain), developed a c++ [chess-library](https://github.com/Disservin/chess-library), and later built [fastchess](https://github.com/Disservin/fastchess).  
+I work with C++, C#, PHP, Python, Vue/TypeScript and occasionally Rust/Go.
 
 - 📫 How to reach me **disservin.social@gmail.com**
 
