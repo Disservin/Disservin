@@ -2,7 +2,7 @@
 
 I'm Max (Disservin), a software developer passionate about high-performance computing and chess programming.  
 
-Currently maintaining Stockfish, the world's strongest chess engine.  
+Currently maintaining [Stockfish](https://github.com/official-stockfish/Stockfish), the world's strongest chess engine.  
 Started my journey creating [Smallbrain](https://github.com/Disservin/Smallbrain), developed a c++ [chess-library](https://github.com/Disservin/chess-library), and later built [fastchess](https://github.com/Disservin/fastchess).  
 I work with C++, C#, PHP, Python, Vue/TypeScript and occasionally Rust/Go.
 
