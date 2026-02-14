@@ -9,7 +9,6 @@ I work with C++, C#, PHP, Python, Vue/TypeScript and occasionally Rust/Go.
 - 📫 How to reach me **disservin.social@gmail.com**
 
 <p float="left">
-  <img style="height: 150px" src="https://github-readme-stats.vercel.app/api?username=Disservin&theme=bear&hide_border=true&include_all_commits=false&count_private=false" />
   <img style="height: 150px" src="https://github-readme-streak-stats.herokuapp.com/?user=Disservin&theme=bear&hide_border=true" />
 </p>
 
